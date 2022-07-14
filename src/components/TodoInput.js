@@ -4,7 +4,7 @@ export default class TodoInput extends Component {
   render() {
     return (
       <div>
-        <h1>Hello from todo Input</h1>
+        <h1>MY TODO LIST</h1>
       </div>
     )
   }
