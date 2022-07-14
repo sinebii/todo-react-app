@@ -1,8 +1,11 @@
+import React, { Component } from "react";
 
-function App() {
-  return (
-    <h1>Todo App</h1>
-  );
+class App extends Component {
+  render(){
+    return (
+      <h1>Todo App</h1>
+    );
+  }
 }
 
 export default App;
